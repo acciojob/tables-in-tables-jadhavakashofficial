@@ -1,2 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
 
-/* Your CSS Code here. */
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
+}
+
+.black-bg {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
